@@ -1,9 +1,9 @@
 h5py
-numpy
+numpy==1.19.5
 torch==1.4.0
 torchvision==0.2.0
-yaml
-pprint
+pyyaml==5.4.1
+pprintpp
 enum34
 future
 scipy==1.4.1
@@ -18,3 +18,7 @@ easydict==1.7
 plyfile==0.6
 glumpy==1.0.6
 pillow==8.2.0
+tqdm==4.19.5
+pandas==0.22.0
+scikit-learn==0.19.1
+termcolor==1.1.0
